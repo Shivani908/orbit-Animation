@@ -84,7 +84,8 @@ html,body{
     right: 3.2em;
     width: 5em;
     height: 5em;
-    background-image: url(https://jooinn.com/images/earth-from-space-13.jpg);
+    /* background-image: url(https://jooinn.com/images/earth-from-space-13.jpg); */
+    background-color: blue;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
